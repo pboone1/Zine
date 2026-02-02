@@ -1,0 +1,28 @@
+*{
+    margin:40px;
+    text-align: center;
+}
+
+
+
+
+.t1{
+    font-size: 36px;
+    color: rgb(117, 75, 27);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.t2{
+    font-size: 22px;
+    color: rgb(185, 156, 122);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height:0cap;
+    text-align:start
+}
+
+.t3{
+    text-align: start;
+    letter-spacing: 1px;
+    font-style: oblique;
+    padding-top: 10px;
+}
