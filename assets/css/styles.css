@@ -1,0 +1,53 @@
+*{
+    margin:40px;
+    text-align: center;
+    background-color:rgb(255, 236, 236);
+}
+
+.text{
+    display: inline-block;
+    justify-content: center;
+    align-content: baseline;
+}
+
+.title{
+    font-family:'Gill Sans';
+    letter-spacing: 1px;
+    font-size:36px;
+}
+
+.list{
+    font-family: 'Gill Sans';
+    letter-spacing: 1px;
+    font-size:28px;
+    color: rgb(88, 88, 88);
+    text-align: right;
+    list-style-position: inside;
+    list-style:circle;
+}
+
+
+
+
+/*
+.t1{
+    font-size: 36px;
+    color: rgb(117, 75, 27);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.t2{
+    font-size: 22px;
+    color: rgb(185, 156, 122);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height:0cap;
+    text-align:start
+}
+
+.t3{
+    text-align: start;
+    letter-spacing: 1px;
+    font-style: oblique;
+    padding-top: 10px;
+}
+*/
